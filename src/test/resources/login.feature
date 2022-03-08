@@ -1,4 +1,4 @@
-Feature: Login Functionality of PHPTrael website
+Feature: Login Functionality of PHPTravel website
 
 Scenario: USer login with valid credentials
 Given user is on login page
